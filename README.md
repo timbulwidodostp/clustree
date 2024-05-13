@@ -5,6 +5,8 @@ Clustered tree plots Use clustree With (In) R Software
 
 Visualise Clusterings at Different Resolutions Use clustree With (In) R Software
 
+https://www.youtube.com/watch?v=yJARfWm4cLg
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
